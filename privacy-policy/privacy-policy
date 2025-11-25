@@ -1,1 +1,33 @@
 
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プライバシーポリシー | Secret Gallery</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; }
+    h1 { text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>プライバシーポリシー</h1>
+  <p>本アプリ「Secret Gallery」は、ユーザーのプライバシーを尊重し、個人情報の保護に努めます。</p>
+
+  <h2>1. 収集する情報</h2>
+  <p>本アプリは端末内の画像・動画を閲覧・保存するためにストレージアクセス権限を使用しますが、データは外部に送信されません。</p>
+
+  <h2>2. 広告について</h2>
+  <p>本アプリはGoogle AdMobを使用して広告を表示します。AdMobがユーザー情報を匿名で収集する場合があります。</p>
+  <p>詳細はGoogleの<a href="https://policies.google.com/technologies/ads?hl=ja" target="_blank">広告ポリシー</a>をご覧ください。</p>
+
+  <h2>3. データの保存</h2>
+  <p>すべてのファイルはユーザーの端末内に保存され、当社がアクセスすることはありません。</p>
+
+  <h2>4. お問い合わせ</h2>
+  <p>ご質問等は、次のメールアドレスまでご連絡ください。<br>
+  📩 4tth.tribe@gmail.com</p>
+
+  <p>制定日：2025年10月7日</p>
+</body>
+</html>
